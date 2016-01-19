@@ -1,4 +1,4 @@
- # Robot-BrowserStack
+# Robot-BrowserStack
   Robot Framework template for cross browser testing across various Windows versions with BrowserStack.
 
 ### Install Robot Framework 
